@@ -11,3 +11,5 @@ The model uses the [LGG MRI Segmentation dataset](https://www.kaggle.com/dataset
 
 - License: CC-BY-NC-SA-4.0
 - Contains 3,929 MRI images with corresponding masks
+- Images are in TIFF format
+- Masks are binary (0 for no tumor, 1 for tumor present)
