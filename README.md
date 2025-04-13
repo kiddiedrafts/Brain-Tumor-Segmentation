@@ -22,3 +22,4 @@ The data preprocessing pipeline includes:
    - mask_path
    - mask (binary indicator)
 3. Splitting the data into training, validation, and test sets.
+4. Creating a custom data generator (`BrainTumorGenerator`)
