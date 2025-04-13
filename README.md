@@ -9,7 +9,6 @@ The project implements a U-Net model to segment brain tumors from MRI scans. The
 
 The model uses the [LGG MRI Segmentation dataset](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation) from Kaggle.
 
-- License: CC-BY-NC-SA-4.0
 - Contains 3,929 MRI images in TIFF format with corresponding masks
 - Masks are binary (0 for no tumor, 1 for tumor present)
 
