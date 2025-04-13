@@ -12,3 +12,14 @@ The model uses the [LGG MRI Segmentation dataset](https://www.kaggle.com/dataset
 - License: CC-BY-NC-SA-4.0
 - Contains 3,929 MRI images in TIFF format with corresponding masks
 - Masks are binary (0 for no tumor, 1 for tumor present)
+
+## Data Preprocessing
+
+The data preprocessing pipeline includes:
+1. Downloading and extracting the dataset from Kaggle
+2. Organizing the data into a pandas DataFrame with columns:
+   - patient_id
+   - image_path
+   - mask_path
+   - mask (binary indicator)
+3. Splitting the data into training, validation, and test sets.
