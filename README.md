@@ -25,3 +25,9 @@ The data preprocessing pipeline includes:
 4. Creating a custom data generator (`BrainTumorGenerator`) that:
    - Loads images and masks
    - Resizes them to 256x256 pixels
+
+## Model Architecture
+
+The model uses a U-Net architecture with the following components:
+
+**Encoder (Downsampling Path):**
