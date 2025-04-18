@@ -33,3 +33,7 @@ The model uses a U-Net architecture with the following components:
 **Encoder (Downsampling Path):**
 - 3 levels of convolutional blocks (Conv2D + Conv2D + MaxPooling2D)
 - Number of filters increases from 64 to 256
+
+
+**Bottleneck:**
+- Two convolutional layers with 512 filters
