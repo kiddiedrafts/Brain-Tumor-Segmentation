@@ -37,3 +37,6 @@ The model uses a U-Net architecture with the following components:
 
 **Bottleneck:**
 - Two convolutional layers with 512 filters
+
+**Decoder (Upsampling Path):**
+- 3 levels of upsampling blocks (UpSampling2D + concatenation + Conv2D + Conv2D)
