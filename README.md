@@ -40,3 +40,4 @@ The model uses a U-Net architecture with the following components:
 
 **Decoder (Upsampling Path):**
 - 3 levels of upsampling blocks (UpSampling2D + concatenation + Conv2D + Conv2D)
+- Skip connections from corresponding encoder levels
