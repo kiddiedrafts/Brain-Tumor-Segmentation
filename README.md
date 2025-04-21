@@ -34,7 +34,6 @@ The model uses a U-Net architecture with the following components:
 - 3 levels of convolutional blocks (Conv2D + Conv2D + MaxPooling2D)
 - Number of filters increases from 64 to 256
 
-
 **Bottleneck:**
 - Two convolutional layers with 512 filters
 
@@ -42,3 +41,8 @@ The model uses a U-Net architecture with the following components:
 - 3 levels of upsampling blocks (UpSampling2D + concatenation + Conv2D + Conv2D)
 - Skip connections from corresponding encoder levels
 - Number of filters decreases from 256 to 64
+
+**Output:**
+- Final 1x1 convolution with sigmoid activation for binary segmentation
+
+
