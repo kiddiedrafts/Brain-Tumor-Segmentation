@@ -45,4 +45,8 @@ The model uses a U-Net architecture with the following components:
 **Output:**
 - Final 1x1 convolution with sigmoid activation for binary segmentation
 
+## Training
+
+The model was trained with:
+- Optimizer: Adam
 
