@@ -49,4 +49,4 @@ The model uses a U-Net architecture with the following components:
 
 The model was trained with:
 - Optimizer: Adam
-
+- Loss function: Binary crossentropy
