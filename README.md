@@ -51,3 +51,4 @@ The model was trained with:
 - Optimizer: Adam
 - Loss function: Binary crossentropy
 - Batch size: 16
+- Image size: 256x256
