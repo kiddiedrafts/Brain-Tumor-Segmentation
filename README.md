@@ -52,3 +52,6 @@ The model was trained with:
 - Loss function: Binary crossentropy
 - Batch size: 16
 - Image size: 256x256
+- Callbacks:
+  - Early stopping (patience=3)
+  - Model checkpointing (saves best model)
