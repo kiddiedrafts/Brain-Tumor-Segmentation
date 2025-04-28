@@ -55,3 +55,9 @@ The model was trained with:
 - Callbacks:
   - Early stopping (patience=3)
   - Model checkpointing (saves best model)
+ 
+## Model Performance
+
+Final evaluation metrics:
+- Validation Accuracy: 99.41%
+
