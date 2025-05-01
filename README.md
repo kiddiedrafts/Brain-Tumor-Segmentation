@@ -61,3 +61,5 @@ The model was trained with:
 Final evaluation metrics:
 - Validation Accuracy: 99.41%
 - Test Accuracy: 99.10%
+
+The model demonstrates excellent performance in segmenting brain tumors from MRI images.
