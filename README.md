@@ -67,3 +67,4 @@ The model demonstrates excellent performance in segmenting brain tumors from MRI
 ## Requirements
 
 To run this project, you'll need:
+- numpy
