@@ -71,3 +71,4 @@ To run this project, you'll need:
 - pandas
 - opencv
 - pillow
+- matplotlib
