@@ -72,3 +72,4 @@ To run this project, you'll need:
 - opencv
 - pillow
 - matplotlib
+- scikit-learn
