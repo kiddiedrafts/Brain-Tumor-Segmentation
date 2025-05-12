@@ -73,3 +73,4 @@ To run this project, you'll need:
 - pillow
 - matplotlib
 - scikit-learn
+- tensorflow
