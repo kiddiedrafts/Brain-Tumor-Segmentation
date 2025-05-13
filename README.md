@@ -74,3 +74,4 @@ To run this project, you'll need:
 - matplotlib
 - scikit-learn
 - tensorflow
+- kaggle
