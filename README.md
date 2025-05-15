@@ -58,7 +58,7 @@ The model was trained with:
  
 ## Model Performance
 
-Final evaluation metrics:
+The model achieved the following performance:
 - Validation Accuracy: 99.41%
 - Test Accuracy: 99.10%
 
